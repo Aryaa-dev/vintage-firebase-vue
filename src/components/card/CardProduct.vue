@@ -6,12 +6,12 @@
     >
       
       <div class="card" style="width: 23rem; height: 37rem; position: relative">
-        <img
+        <!-- <img
           :src="product.imageLink"
           class="card-img-top"
           alt=""
           style="width: 100%; height: 20rem; object-fit: cover"
-        />
+        /> -->
         <div class="card-body">
           <h5
             class="card-title"
